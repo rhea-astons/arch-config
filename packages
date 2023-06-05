@@ -1,0 +1,12 @@
+base_packages=(
+  base
+  base-devel
+  btrfs-progs
+  fish
+  git
+  linux
+  linux-firmware
+  linux-headers
+  rsync
+  vim
+)
